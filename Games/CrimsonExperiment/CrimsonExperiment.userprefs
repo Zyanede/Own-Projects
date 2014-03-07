@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\CameraFollow.js">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\PlayerAttack_Shoot.cs" Line="18" Column="69" />
+      <File FileName="Assets\Toony Gooch\Shaders\Toony_Gooch.shader" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Assets\Scripts\RandomPlatforms.cs" Line="13" Column="41" />
+      <File FileName="Assets\Standard Assets\Assets\Scripts\EnemyAttackPercentage.cs" Line="7" Column="19" />
+      <File FileName="Assets\Standard Assets\Assets\Scripts\Platform.cs" Line="13" Column="30" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js" Line="22" Column="31" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="192" Column="25" />
+      <File FileName="Assets\Resources\Scripts\MovePlayer.cs" Line="70" Column="19" />
+      <File FileName="Assets\Resources\Scripts\EnemyMove_AA.cs" Line="39" Column="1" />
+      <File FileName="Assets\Resources\Scripts\CameraFollow.js" Line="14" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

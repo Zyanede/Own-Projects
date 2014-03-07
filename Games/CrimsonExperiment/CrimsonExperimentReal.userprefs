@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\EnemyMove_UD.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\PlayerAttack_Shoot.cs" Line="56" Column="86" />
+      <File FileName="Assets\Resources\Scripts\MovePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\EnemyMove_LR.cs" Line="42" Column="39" />
+      <File FileName="Assets\Resources\Scripts\SewageDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\BulletDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\PlayerHealth.cs" Line="73" Column="4" />
+      <File FileName="Assets\Resources\Scripts\BloodyScreen.cs" Line="14" Column="30" />
+      <File FileName="Assets\Resources\Scripts\EnemyAttack_Shoot.cs" Line="17" Column="3" />
+      <File FileName="Assets\Resources\Scripts\EnemyMove_AA.cs" Line="19" Column="54" />
+      <File FileName="Assets\Resources\Scripts\EnemyMove_UD.cs" Line="37" Column="3" />
+      <File FileName="Assets\Resources\Scripts\MovePlayer1.cs" Line="11" Column="22" />
+      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\SmoothFollow.js" Line="50" Column="67" />
+      <File FileName="Assets\Resources\Scripts\CameraFollow.js" Line="6" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
