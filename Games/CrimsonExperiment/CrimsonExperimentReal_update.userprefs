@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\PlayerHealth.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\CursorScript.cs" Line="50" Column="6" />
+      <File FileName="Assets\Extra GUI Skins\SkinTest.cs" Line="77" Column="2" />
+      <File FileName="Assets\Resources\Scripts\BloodyScreen.cs" Line="33" Column="1" />
+      <File FileName="Assets\Resources\Scripts\EnemyMove_AA.cs" Line="16" Column="19" />
+      <File FileName="Assets\Resources\Scripts\EnemyHealth.cs" Line="27" Column="4" />
+      <File FileName="Assets\Resources\Scripts\MovePlayer.cs" Line="22" Column="34" />
+      <File FileName="Assets\Resources\Scripts\EnemyMove_UD.cs" Line="21" Column="3" />
+      <File FileName="Assets\SimplePixelizer\SimplePixelizer.cs" Line="24" Column="42" />
+      <File FileName="Assets\Resources\Scripts\StartScreen.cs" Line="30" Column="27" />
+      <File FileName="Assets\Resources\Scripts\PlayerAttack_Shoot.cs" Line="46" Column="4" />
+      <File FileName="Assets\Resources\Scripts\PlayerHealth.cs" Line="8" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
